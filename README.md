@@ -4,7 +4,7 @@
 
 Petit chauffage d'appoint portatif fonctionnant sur batterie. 
 
-![featured_image](images/mhk_logotype.png)
+![featured_image](https://raw.githubusercontent.com/myhumankit/myworkshop/master/images/default_featured_image.jpg)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/chauffe-main)
