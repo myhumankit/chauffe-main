@@ -1,4 +1,7 @@
 # Chauffe main
+![proto](https://img.shields.io/badge/proto-en%20cours-orange.svg "proto")
+![doc](https://img.shields.io/badge/doc-en%20cours-orange.svg "doc")
+
 Petit chauffage d'appoint portatif fonctionnant sur batterie. 
 
 ![featured_image](images/mhk_logotype.png)
